@@ -30,7 +30,7 @@ font-weight: normal;
      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
      }
  @media (max-width: 800px) {
-   .software{padding-right: 20px;}
+   .software{padding-left: 20px;}
  }
  
  .navbar-nav{
