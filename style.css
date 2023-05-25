@@ -57,9 +57,11 @@ font-weight: normal;
 /* navbar end */
 /* header_section start */
 .header_section{
-    padding: 70px;
-   
+    padding: 70px;  
 }
+@media (max-width: 800px) {
+    .header_section{padding:5px;}
+    }
 .tosin_circle img{
     width: 75%;
     height: 75%;
@@ -142,6 +144,9 @@ background-color: aliceblue;
  #contact_section{
     padding: 70px;
 }
+@media (max-width: 800px) {
+    #contact_section{padding:5px;}
+    }
 #contact_section p, .form-control{
     margin-bottom: 30px;
 }
@@ -165,6 +170,9 @@ background-color: aliceblue;
 #project_section{
     padding: 70px;
 }
+@media (max-width: 800px) {
+    #project_section{padding:5px;}
+    }
 #project_section h2, #project_section .ps{
     margin-bottom: 6rem;
     
@@ -182,6 +190,9 @@ background-color: aliceblue;
  #resume_section{
     padding: 70px;
 }
+@media (max-width: 800px) {
+    #resume_section{padding:5px;}
+    }
  #resume_section .row{
     padding-top: 40px;
     
