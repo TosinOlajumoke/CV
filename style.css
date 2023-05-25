@@ -81,7 +81,11 @@ font-weight: normal;
 .button{
     margin-top: 40px;
 }
-
+@media (max-width: 800px) {
+    .button1 .button2 .button3{width: 5rem;}
+      .button1 .button2 .button3{height: 5rem;}
+    
+    }
 
 
 .button1{
