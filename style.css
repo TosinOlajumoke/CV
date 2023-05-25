@@ -49,7 +49,7 @@ font-weight: normal;
  #navbar_section{
      width: 100%;
      float: left;
-     background-color: aliceblue;
+     
      background-size: cover;
      height: auto;
 }
@@ -57,10 +57,12 @@ font-weight: normal;
 /* navbar end */
 /* header_section start */
 .header_section{
+    width:100%;
     padding: 70px;  
 }
 @media (max-width: 800px) {
-    .header_section{padding:5px;}
+    .header_section{padding:20px;}
+    width:100%;
     }
 .tosin_circle img{
     width: 75%;
@@ -123,6 +125,10 @@ background-color: aliceblue;
    
     padding: 60px 40px 5px;
 }
+@media (max-width: 800px) {
+    .footer_section{padding:60px 20px 5px;}
+    width:100%;
+    }
 .footer_section a, .footer_section p{
     font-size: 13px;
     font-family:Poppins;
@@ -143,9 +149,11 @@ background-color: aliceblue;
 
  #contact_section{
     padding: 70px;
+    
 }
 @media (max-width: 800px) {
-    #contact_section{padding:5px;}
+    #contact_section{padding:20px;}
+    width:100%;
     }
 #contact_section p, .form-control{
     margin-bottom: 30px;
@@ -171,7 +179,8 @@ background-color: aliceblue;
     padding: 70px;
 }
 @media (max-width: 800px) {
-    #project_section{padding:5px;}
+    #project_section{padding:20px;}
+    width:100%;
     }
 #project_section h2, #project_section .ps{
     margin-bottom: 6rem;
@@ -191,7 +200,8 @@ background-color: aliceblue;
     padding: 70px;
 }
 @media (max-width: 800px) {
-    #resume_section{padding:5px;}
+    #resume_section{padding:20px;}
+    width:100%;
     }
  #resume_section .row{
     padding-top: 40px;
