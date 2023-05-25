@@ -74,8 +74,7 @@ font-weight: normal;
     }
 .about_me{
     margin-top: 50px;
-    float: left;
-    padding-right: 50px;
+    float: left; 
 }
 .button{
     margin-top: 40px;
