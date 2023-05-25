@@ -90,8 +90,8 @@ font-weight: normal;
 
 .button1{
     border-radius: 100%;
-    width: 8rem;
-    height: 8rem;
+    width: 6rem;
+    height: 6rem;
     background-color: orange;
     border-width: 1px;
     margin-right: 10px;
@@ -100,8 +100,8 @@ font-weight: normal;
 }
 .button2{
     border-radius: 100%;
-    width: 8rem;
-    height: 8rem;
+    width: 6rem;
+    height: 6rem;
     background-color: orangered;
     border-width: 1px;
     margin-right: 10px;
@@ -109,8 +109,8 @@ font-weight: normal;
 }
 .button3{
     border-radius: 100%;
-    width: 8rem;
-    height: 8rem;
+    width: 6rem;
+    height: 6rem;
     background-color: aqua;
     border-width: 1px;
 }
